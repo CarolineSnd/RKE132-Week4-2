@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8DBA862A-ACAB-401E-BCDA-795EF3D340E5}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomNumber/Program.cs">
+    <Files>
+      <File FileName="RandomNumber/Program.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RandomNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
